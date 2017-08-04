@@ -1,0 +1,46 @@
+support,pattern
+226,['frequent']
+201,['design']
+178,['algorithm']
+173,['vector']
+171,['set']
+165,['machine']
+160,['application']
+142,['representation']
+126,['optimization']
+122,"['support', 'vector']"
+115,['information']
+109,['linear']
+104,['distributed']
+99,['approximate']
+92,['object']
+91,['sequential']
+90,['multiple']
+89,['technique']
+89,['join']
+88,['querying']
+84,['visualization']
+83,['privacy']
+79,['dynamic']
+78,['preserving']
+76,['expression']
+76,['closed']
+75,['relation']
+73,['program']
+67,"['knowledge', 'discovery']"
+59,"['mining', 'frequent']"
+50,"['frequent', 'pattern']"
+50,"['rule', 'mining']"
+49,"['mining', 'association']"
+25,"['mining', 'pattern']"
+7,"['database', 'mining']"
+6,"['mining', 'data']"
+6,"['query', 'database']"
+3,"['system', 'database']"
+2,"['database', 'relational']"
+0,"['rule', 'mining', 'association']"
+0,"['support', 'machine', 'vector']"
+0,"['machine', 'vector']"
+0,"['rule', 'association']"
+0,"['support', 'machine']"
+0,"['satisfaction', 'constraint']"

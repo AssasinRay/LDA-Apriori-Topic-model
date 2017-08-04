@@ -1,0 +1,84 @@
+purity,pattern
+1.88430459059,['rule']
+2.08682639453,['association']
+1.8889694072,['pattern']
+1.3688145627,['database']
+1.89193559884,['discovery']
+2.08045686966,['frequent']
+1.73420150242,['constraint']
+1.60139956736,['support']
+1.80035543346,['vector']
+1.75475034427,['sequence']
+2.08682639453,['satisfaction']
+1.84763873065,"['support', 'vector']"
+1.52355896491,['design']
+2.04935168911,['closed']
+1.61843947066,['service']
+1.89418131659,['visualization']
+1.44770812376,['parallel']
+1.28760852191,['relational']
+2.08682639453,"['mining', 'frequent']"
+1.69513938253,['discovering']
+1.73730005303,['sequential']
+2.08682639453,"['rule', 'mining']"
+2.08682639453,"['frequent', 'pattern']"
+2.08682639453,"['mining', 'association']"
+1.18910744482,['classification']
+1.76865043451,['logical']
+1.33977198274,['set']
+1.76125817564,"['knowledge', 'discovery']"
+1.58998674849,['description']
+1.57986640581,['expression']
+1.48016882271,['querying']
+1.42222227915,['interactive']
+1.22042523978,['representation']
+1.15918787331,['machine']
+2.08682639453,"['mining', 'pattern']"
+1.41803230301,['preserving']
+0.909892185623,['knowledge']
+1.33258280893,['privacy']
+1.24044958365,['approximate']
+1.29654498583,['series']
+1.16289381062,['function']
+0.630889799333,['query']
+1.06125486639,['linear']
+1.15577374825,['relation']
+0.659592215975,['using']
+0.859415898429,['logic']
+0.847127440094,['analysis']
+0.904234981253,['optimization']
+0.955229511749,['join']
+0.648300090382,['approach']
+0.683764221909,['web']
+0.910669439378,['implementation']
+0.684670503102,['time']
+0.674044869193,['application']
+1.89418131659,"['database', 'mining']"
+0.794375500721,['technique']
+0.716988314683,['generation']
+0.729756493524,['program']
+1.50186389381,"['query', 'database']"
+2.08682639453,"['database', 'relational']"
+0.463517582161,['method']
+0.50829016297,['abstract']
+0.46559733824,['multiple']
+1.34986080037,"['system', 'database']"
+0.246784286377,['system']
+0.423861381809,"['mining', 'data']"
+0.176288021908,['dynamic']
+0.106879621435,['efficient']
+2.08682639453,"['satisfaction', 'constraint']"
+1.08682639453,"['support', 'machine']"
+2.08682639453,"['series', 'time']"
+2.08682639453,"['rule', 'association']"
+2.08682639453,"['machine', 'vector']"
+2.08682639453,"['support', 'machine', 'vector']"
+2.08682639453,"['rule', 'mining', 'association']"
+-0.00987768823591,['language']
+-0.190013810827,['distributed']
+-0.284497520593,['algorithm']
+-0.269265474413,['based']
+-0.579436208291,['object']
+-0.875987716015,['information']
+-0.6528705826,['data']
+-1.41409119826,['learning']

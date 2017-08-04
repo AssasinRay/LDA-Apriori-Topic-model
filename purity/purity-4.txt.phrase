@@ -1,0 +1,87 @@
+purity,pattern
+1.79437369389,['reasoning']
+1.65866640403,['management']
+1.59711910422,['distributed']
+1.69331050322,['stream']
+1.70736989567,['base']
+1.82154675807,"['data', 'stream']"
+1.03143029911,['based']
+1.87592041587,['concurrency']
+1.40239445474,['performance']
+1.61170973498,['transaction']
+1.22882938344,['clustering']
+1.70977415909,['server']
+1.7635318971,['storage']
+0.922376823055,['system']
+1.57017526976,['cluster']
+1.47078134627,['memory']
+1.32842997298,['fast']
+1.28881148826,['framework']
+1.17027401385,['control']
+1.12694005075,['logic']
+1.31781194232,['architecture']
+1.02825160878,['application']
+1.25789184904,['access']
+1.082852365,['structure']
+1.85792142909,"['based', 'data']"
+1.21653839222,['program']
+0.867937957912,['web']
+1.2437797249,['bound']
+1.19500265701,['scheme']
+1.17469358357,['theory']
+1.1587509477,['spatial']
+0.579708866608,['database']
+1.05113297876,['join']
+1.92926910158,"['clustering', 'data']"
+0.811081405848,['semantic']
+0.865418256503,['environment']
+0.929269101578,['study']
+0.888241833317,['index']
+0.697229130228,['relational']
+1.64996329565,"['application', 'data']"
+0.631642569511,['knowledge']
+0.801988437544,['similarity']
+1.68906311534,"['system', 'data']"
+1.32238863762,"['data', 'using']"
+1.66623469574,"['structure', 'data']"
+0.82049275566,['indexing']
+1.7374261369,"['management', 'database']"
+0.630028601398,['method']
+0.501913197164,['approach']
+0.717607378271,['programming']
+1.38305504264,"['mining', 'data']"
+1.60814311996,"['management', 'data']"
+1.27799451827,"['clustering', 'based']"
+1.92926910158,"['system', 'distributed']"
+0.414515603138,['algorithm']
+0.623616906394,['set']
+1.56750113546,"['data', 'relational']"
+0.604789821161,['temporal']
+1.66703680901,"['system', 'management']"
+0.522860004665,['time']
+0.482742350554,['towards']
+0.448150070862,['parallel']
+0.93120285137,"['system', 'based']"
+1.92926910158,"['data', 'distributed']"
+0.387119684395,['dynamic']
+0.417591582136,['machine']
+0.238281102513,['using']
+0.335617265147,['evaluation']
+0.226125174508,['approximation']
+0.930542837942,"['database', 'distributed']"
+0.608614743055,"['system', 'database']"
+0.127141341183,['graph']
+0.143506455083,['analysis']
+0.123187915885,['support']
+0.0953933032672,['network']
+0.0662500044049,['tree']
+0.930542837942,"['base', 'data']"
+0.93120285137,"['control', 'concurrency']"
+-0.274740338093,['constraint']
+-0.205674288004,['mining']
+-0.285317818754,['processing']
+-0.461565851854,['xml']
+-0.441504897239,['search']
+-0.594913769075,['efficient']
+-0.804404827295,['object']
+-1.55392365683,['query']

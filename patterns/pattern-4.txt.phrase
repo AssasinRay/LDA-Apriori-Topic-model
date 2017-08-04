@@ -1,0 +1,88 @@
+support,pattern
+1948,['data']
+894,['based']
+748,['system']
+672,['database']
+436,['reasoning']
+401,['management']
+400,['distributed']
+400,['algorithm']
+360,['clustering']
+314,['stream']
+296,['using']
+290,['web']
+286,['base']
+277,['approach']
+274,['performance']
+266,['application']
+255,['mining']
+234,['knowledge']
+220,['logic']
+207,['tree']
+203,['control']
+203,['structure']
+192,"['data', 'stream']"
+188,['relational']
+172,['fast']
+170,['framework']
+167,['semantic']
+162,['transaction']
+162,['time']
+158,['graph']
+154,['network']
+151,['search']
+141,['method']
+139,['memory']
+135,['access']
+134,['architecture']
+128,['concurrency']
+127,['server']
+120,['cluster']
+120,['environment']
+118,['processing']
+116,['set']
+115,['storage']
+114,['dynamic']
+114,['program']
+113,['temporal']
+109,['theory']
+107,['scheme']
+106,['join']
+104,['index']
+104,['support']
+103,['similarity']
+103,['constraint']
+102,['spatial']
+102,['parallel']
+101,['evaluation']
+101,['efficient']
+101,['xml']
+97,['bound']
+96,['towards']
+95,['analysis']
+94,['programming']
+91,['study']
+90,['query']
+89,['machine']
+87,['object']
+83,['indexing']
+82,['approximation']
+39,"['based', 'data']"
+21,"['data', 'using']"
+14,"['clustering', 'data']"
+14,"['clustering', 'based']"
+14,"['application', 'data']"
+13,"['mining', 'data']"
+11,"['system', 'data']"
+10,"['structure', 'data']"
+10,"['system', 'based']"
+8,"['management', 'data']"
+7,"['data', 'relational']"
+7,"['management', 'database']"
+5,"['system', 'management']"
+4,"['system', 'distributed']"
+2,"['system', 'database']"
+1,"['data', 'distributed']"
+1,"['database', 'distributed']"
+0,"['control', 'concurrency']"
+0,"['base', 'data']"

@@ -1,0 +1,47 @@
+support,pattern
+192,"['data', 'stream']"
+167,['semantic']
+162,['transaction']
+151,['search']
+134,['architecture']
+128,['concurrency']
+120,['environment']
+118,['processing']
+115,['storage']
+114,['dynamic']
+113,['temporal']
+109,['theory']
+107,['scheme']
+104,['index']
+103,['similarity']
+103,['constraint']
+102,['spatial']
+102,['parallel']
+101,['efficient']
+97,['bound']
+96,['towards']
+94,['programming']
+91,['study']
+90,['query']
+89,['machine']
+87,['object']
+83,['indexing']
+82,['approximation']
+39,"['based', 'data']"
+21,"['data', 'using']"
+14,"['clustering', 'data']"
+14,"['clustering', 'based']"
+14,"['application', 'data']"
+13,"['mining', 'data']"
+10,"['structure', 'data']"
+10,"['system', 'based']"
+8,"['management', 'data']"
+7,"['data', 'relational']"
+7,"['management', 'database']"
+5,"['system', 'management']"
+4,"['system', 'distributed']"
+2,"['system', 'database']"
+1,"['data', 'distributed']"
+1,"['database', 'distributed']"
+0,"['control', 'concurrency']"
+0,"['base', 'data']"

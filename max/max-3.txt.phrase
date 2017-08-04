@@ -1,0 +1,69 @@
+support,pattern
+430,['processing']
+411,['learning']
+333,['image']
+261,['search']
+227,['classification']
+204,['evaluation']
+203,['method']
+184,['multi']
+161,['analysis']
+158,"['query', 'processing']"
+142,['schema']
+131,['environment']
+129,['technique']
+128,"['information', 'retrieval']"
+126,['semi']
+125,['network']
+121,['performance']
+120,['dynamic']
+120,['natural']
+115,['supervised']
+111,['collection']
+110,['relational']
+105,['word']
+105,['scale']
+102,['intelligent']
+101,"['natural', 'language']"
+101,['local']
+101,['expert']
+101,['dimensional']
+100,['via']
+99,['interface']
+98,['complex']
+97,['vision']
+97,['implementation']
+96,['segmentation']
+96,['optimization']
+96,['design']
+96,['mobile']
+96,['computer']
+93,['term']
+92,['ranking']
+91,['content']
+91,['mining']
+91,['representation']
+91,['approach']
+89,['space']
+89,['fast']
+86,['structural']
+86,['conceptual']
+85,['distributed']
+85,['matching']
+84,['domain']
+83,['active']
+83,['management']
+82,['combining']
+81,['structure']
+79,['building']
+42,"['data', 'model']"
+14,"['query', 'xml']"
+10,"['language', 'query']"
+7,"['based', 'model']"
+5,"['retrieval', 'document']"
+4,"['database', 'object']"
+3,"['oriented', 'object']"
+2,"['system', 'database']"
+0,"['database', 'oriented', 'object']"
+0,"['database', 'oriented']"
+0,"['system', 'retrieval']"
